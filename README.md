@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .SHOP one-word domains still available to buy.
 
-This dataset contains 308 .SHOP one word domains with availability, attractiveness and demand scores.
+This dataset contains 317 .SHOP one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.SHOP one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=shop-oneword-domains&utm_content=description.top) (305) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,8 +13,8 @@ If you want to search & filters the complete database of [.SHOP one word domains
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/shop-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/shop-oneword-domains/blob/main/shop.csv"><b>⬇️ CSV (308 domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/shop-oneword-domains/blob/main/shop.json"><b>⬇️ JSON (308 domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/shop-oneword-domains/blob/main/shop.csv"><b>⬇️ CSV (317 domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/shop-oneword-domains/blob/main/shop.json"><b>⬇️ JSON (317 domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=shop-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (305)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
@@ -45,17 +45,17 @@ If you want to search & filters the complete database of [.SHOP one word domains
 | acephalous.shop | available | 46       | 1%     | 10     |           |         |         |
 | acquirable.shop | available | 47       | 2%     | 10     |           |         |         |
 | acquired.shop   | available | 47       | 8%     | 8      |           |         |         |
-| acquitted.shop  | available | 50       | 1%     | 9      |           |         |         |
-| active.shop     | available | 104      | 22%    | 6      |           |         |         |
-| acute.shop      | available | 112      | 8%     | 5      |           |         |         |
+| acquitted.shop  | premium   | 50       | 1%     | 9      |           |         |         |
+| active.shop     | premium   | 104      | 22%    | 6      |           |         |         |
+| acute.shop      | premium   | 112      | 8%     | 5      |           |         |         |
 | adactylous.shop | available | 50       | 1%     | 10     |           |         |         |
-| adhesive.shop   | available | 76       | 8%     | 8      |           |         |         |
+| adhesive.shop   | premium   | 76       | 8%     | 8      |           |         |         |
 | adhominem.shop  | available | 50       | 3%     | 10     |           |         |         |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/shop-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/shop-oneword-domains/blob/main/shop.csv"><b>⬇️ CSV (308 domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/shop-oneword-domains/blob/main/shop.json"><b>⬇️ JSON (308 domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/shop-oneword-domains/blob/main/shop.csv"><b>⬇️ CSV (317 domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/shop-oneword-domains/blob/main/shop.json"><b>⬇️ JSON (317 domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=shop-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (305)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
