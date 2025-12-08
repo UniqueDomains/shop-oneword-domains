@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .SHOP one-word domains still available to buy.
 
-This dataset contains 325 .SHOP one word domains with availability, attractiveness and demand scores.
+This dataset contains 345 .SHOP one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.SHOP one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=shop-oneword-domains&utm_content=description.top) (322) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,8 +13,8 @@ If you want to search & filters the complete database of [.SHOP one word domains
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/shop-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/shop-oneword-domains/blob/main/shop.csv"><b>⬇️ CSV (325 domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/shop-oneword-domains/blob/main/shop.json"><b>⬇️ JSON (325 domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/shop-oneword-domains/blob/main/shop.csv"><b>⬇️ CSV (345 domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/shop-oneword-domains/blob/main/shop.json"><b>⬇️ JSON (345 domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=shop-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (322)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
@@ -40,6 +40,8 @@ If you want to search & filters the complete database of [.SHOP one word domains
 | abridged.shop   | premium   | 58       | 5%     | 8      |           |         |         |
 | abroach.shop    | available | 82       | 1%     | 7      |           |         |         |
 | abstainer.shop  | available | 60       | 1%     | 9      |           |         |         |
+| accusation.shop | available | 66       | 1%     | 10     |           |         |         |
+| accused.shop    | available | 82       | 3%     | 7      |           |         |         |
 | accusive.shop   | premium   | 40       | 1%     | 8      |           |         |         |
 | ace.shop        | premium   | 88       | 32%    | 3      |           |         |         |
 | acephalous.shop | available | 46       | 1%     | 10     |           |         |         |
@@ -49,13 +51,11 @@ If you want to search & filters the complete database of [.SHOP one word domains
 | active.shop     | premium   | 104      | 22%    | 6      |           |         |         |
 | acute.shop      | premium   | 112      | 8%     | 5      |           |         |         |
 | adactylous.shop | available | 50       | 1%     | 10     |           |         |         |
-| adhesive.shop   | premium   | 76       | 8%     | 8      |           |         |         |
-| adhominem.shop  | available | 50       | 3%     | 10     |           |         |         |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/shop-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/shop-oneword-domains/blob/main/shop.csv"><b>⬇️ CSV (325 domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/shop-oneword-domains/blob/main/shop.json"><b>⬇️ JSON (325 domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/shop-oneword-domains/blob/main/shop.csv"><b>⬇️ CSV (345 domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/shop-oneword-domains/blob/main/shop.json"><b>⬇️ JSON (345 domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=shop-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (322)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
@@ -90,7 +90,7 @@ If you want to search & filters the complete database of [.SHOP one word domains
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,472       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,125       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,525,538    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| All      | 3,618,436    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
