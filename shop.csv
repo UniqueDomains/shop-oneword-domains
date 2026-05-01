@@ -331,6 +331,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 19a9f39f-d09b-4d85-8eff-299694b00b97,lightbulb.shop,premium,2500,,74,16,10,name.com,,
 19b33b82-b07a-44ee-97be-990a154df48b,competing.shop,available,2.99,,64,3,9,name.com,,
 19c12fe2-e7f1-4d73-bfca-66bf948a488c,races.shop,premium,625,,60,8,5,name.com,,
+19faab70-9715-4114-b401-fae0048f4726,initially.shop,available,2.99,,68,3,9,name.com,,
 19fc45d5-314e-4228-b1ca-6b86d7a55dec,getreligion.shop,available,2.99,,77,1,12,name.com,,
 1a0d6cba-a1e1-4854-955d-dbe24cefffa8,soundlike.shop,available,2.99,,64,5,10,name.com,,
 1a566d7d-97ad-462a-b648-be9ebd20213e,dothemath.shop,available,2.99,,72,4,11,name.com,,
@@ -482,6 +483,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 26beae44-a2ff-4483-9f3b-cf3cc1ee5a0c,Frenchrice.shop,available,48.98,,74,1,11,namecheap,,
 26c3ff9a-6567-495a-b372-14fcde5c84fc,slipby.shop,available,2.99,,64,1,7,name.com,,
 26d6bbed-1166-4cc7-979c-29f8709f4b3d,landscape.shop,resell,,,78,24,9,"Spaceship, Inc.",18/02/2021 00:15,18/02/2027 23:59
+2701b8d1-d6b8-4205-9e8f-dfc3ea6d419c,explorer.shop,premium,302.5,302.5,78,28,8,namesilo,,
 2710cbcb-7339-4b81-8851-3c3beb8f69c0,workfare.shop,available,2.99,,72,1,8,name.com,,
 27551e9a-4e91-4b18-8fc9-3bc34aaba7b9,commonrun.shop,available,2.99,,68,1,10,name.com,,
 2755c76b-0cdf-4928-9902-64922a8090be,gowith.shop,resell,,,74,8,7,"Spaceship, Inc.",29/08/2025 09:17,29/08/2026 23:59
@@ -644,6 +646,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 34575bb7-3bdb-4c05-9101-34d51f3018b5,arrows.shop,premium,3125,,52,14,6,name.com,,
 3471ceb9-7a7e-4390-8e97-d6c585b4fe32,required.shop,premium,625,,72,9,8,name.com,,
 348b12c6-12d4-47c0-9063-93b62db9cfe4,Nicky.shop,resell,,,66,13,5,"XIAMEN CHINASOURCE INTERNET SERVICE CO., LTD.",23/10/2025 01:56,23/10/2026 23:59
+34d2b416-d0c6-4670-888e-89f5741b46b7,too.shop,premium,1107,1107,70,20,3,namesilo,,
 34d31f8f-79fd-46b3-affb-0fb1b444f180,gonuclear.shop,available,2.99,,68,3,10,name.com,,
 34dd1d73-768e-479a-83c6-37b3116cd241,fucksome.shop,available,2.99,,62,1,8,name.com,,
 34e73b4f-6d6f-4147-bf6f-e21a7d1fe503,talkingpoint.shop,available,2.99,,64,3,13,name.com,,
@@ -905,6 +908,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 490742d6-9cee-410c-ad59-baab86f99198,thermal.shop,premium,625,,56,23,7,name.com,,
 4927f134-d553-41e0-943a-d3cdd5600574,chickenoregg.shop,available,2.99,,66,4,14,name.com,,
 4965fae0-7309-40de-8dd3-0e68d4511ed7,employ.shop,premium,625,,80,13,6,name.com,,
+497912db-1676-4e99-84d1-bbd8071202fd,briefly.shop,premium,625,,65,22,7,name.com,,
 49bc11d2-3e90-423e-af7b-a557899fb370,indate.shop,available,2.99,,71,3,7,name.com,,
 49c3b1f1-91bc-4bca-b953-6abf0c5fc9e4,getoveroneself.shop,available,2.99,,62,1,16,name.com,,
 49c7565c-a088-4d04-ae05-3a3df2327132,sidewalks.shop,premium,750,,56,5,9,name.com,,
@@ -995,7 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 510df9ff-e01b-4d24-b3ef-693c81ebcc53,childabuse.shop,available,2.99,,56,3,11,name.com,,
 511b85da-8628-4fca-9910-bb47f0e15fd5,cheesedown.shop,available,2.99,,62,0,11,name.com,,
 514933ce-402d-472a-8e5f-3487dfb59669,blinking.shop,available,2.99,,76,5,8,name.com,,
-51533578-fc33-4bcf-bf15-9388cf9f70b3,Caliorbust.shop,available,48.98,,56,1,12,namecheap,,
-5175133b-14b4-43f2-acf9-619c40a51d02,laptop.shop,premium,3125,,76,18,6,name.com,,
-517aa4c1-5268-4b88-b496-d38e4556c49b,copyrightsymbol.shop,available,2.99,,62,2,16,name.com,,
-51c9b939-b461-458c-9bb9-5c45785006c6,dick.shop,premium,3125,,64,30,4,name.com,,
