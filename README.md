@@ -1,10 +1,10 @@
-# Available .SHOP One-Word Domains (4,330)
+# Available .SHOP One-Word Domains (4,434)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-4%2C330%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-4%2C434%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .shop one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **4,330 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **4,434 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 4,330 domains
+**Public extract:** 1,000 rows · **Live catalog:** 4,434 domains · **Median ask:** $1,021.95 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/shop`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                 | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                          |
-| ---------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------------- |
-| votingage.shop         | available | $2.99     | —             | 52             | 18     | 10     | name.com                                           |
-| velcro.shop            | resell    | —         | —             | 80             | 61     | 6      | Dynadot Inc.                                       |
-| mac.shop               | premium   | $6,250    | —             | 84             | 83     | 3      | name.com                                           |
-| cherryonthecake.shop   | available | $2.99     | —             | 60             | 13     | 18     | name.com                                           |
-| check.shop             | resell    | —         | —             | 76             | 37     | 5      | GMO Registry                                       |
-| normal.shop            | premium   | $1,250    | —             | 76             | 82     | 6      | name.com                                           |
-| giveortake.shop        | available | $2.99     | —             | 52             | 13     | 12     | name.com                                           |
-| sound.shop             | resell    | —         | —             | 70             | 36     | 5      | GMO Registry                                       |
-| peacock.shop           | premium   | $1,250    | —             | 68             | 81     | 7      | name.com                                           |
-| givesomethingago.shop  | available | $2.99     | —             | 68             | 12     | 19     | name.com                                           |
-| reliability.shop       | resell    | —         | —             | 84             | 33     | 11     | Chengdu West Dimension Digital Technology Co., LTD |
-| mint.shop              | premium   | $6,250    | —             | 72             | 78     | 4      | name.com                                           |
-| givesomeonealift.shop  | available | $2.99     | —             | 68             | 12     | 19     | name.com                                           |
-| death.shop             | resell    | —         | —             | 62             | 28     | 5      | Spaceship, Inc.                                    |
-| hello.shop             | premium   | $6,250    | —             | 92             | 71     | 5      | name.com                                           |
-| givesomeoneabreak.shop | available | $2.99     | —             | 68             | 12     | 20     | name.com                                           |
-| comfy.shop             | resell    | —         | —             | 82             | 27     | 5      | Spaceship, Inc.                                    |
-| victor.shop            | premium   | $750      | —             | 68             | 63     | 6      | name.com                                           |
-| AsianTiger.shop        | available | $48.98    | —             | 56             | 12     | 11     | namecheap                                          |
-| Iknow.shop             | resell    | —         | —             | 58             | 26     | 6      | Spaceship, Inc.                                    |
+| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar    |
+| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------ |
+| barup.shop           | available | $2.99     | —             | 82             | 2      | 6      | name.com     |
+| Maidens.shop         | available | $48.98    | —             | 80             | 4      | 7      | namecheap    |
+| Rhianna.shop         | available | $48.98    | —             | 81             | 3      | 7      | namecheap    |
+| comeby.shop          | available | $2.99     | —             | 82             | 3      | 7      | name.com     |
+| gelpen.shop          | available | $2.99     | —             | 82             | 1      | 7      | name.com     |
+| kangeroo.shop        | available | $2.99     | —             | 80             | 1      | 8      | name.com     |
+| memorise.shop        | available | $2.99     | —             | 84             | 6      | 8      | name.com     |
+| dogstail.shop        | available | $2.99     | —             | 94             | 1      | 8      | name.com     |
+| makenews.shop        | available | $2.99     | —             | 80             | 1      | 9      | name.com     |
+| showering.shop       | available | $2.99     | —             | 80             | 2      | 9      | name.com     |
+| embracing.shop       | available | $2.99     | —             | 82             | 4      | 9      | name.com     |
+| OKboomer.shop        | available | $48.98    | —             | 82             | 6      | 9      | namecheap    |
+| votingage.shop       | available | $2.99     | —             | 52             | 18     | 10     | name.com     |
+| velcro.shop          | resell    | —         | —             | 80             | 61     | 6      | Dynadot Inc. |
+| chase.shop           | premium   | $6,250    | —             | 66             | 85     | 5      | name.com     |
+| cherryonthecake.shop | available | $2.99     | —             | 60             | 13     | 18     | name.com     |
+| check.shop           | resell    | —         | —             | 76             | 37     | 5      | GMO Registry |
+| mac.shop             | premium   | $6,250    | —             | 84             | 83     | 3      | name.com     |
+| giveortake.shop      | available | $2.99     | —             | 52             | 13     | 12     | name.com     |
+| sound.shop           | resell    | —         | —             | 70             | 36     | 5      | GMO Registry |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 4,330 live domains                               |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 4,434 live domains                         |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is entirely made up of one-word .shop domains, which makes it relevant for buyers seeking commerce-first naming. The extension signals retail intent immediately, so the best candidates tend to be simple, readable words with clear product, category, or brand potential. Examples such as dogsit.shop, gelpen.shop, carcoat.shop, and saveas.shop show the range: some are literal and commercial, while others are broader and more brandable. Pricing matters here because the median ask is 1,022. When comparing these domains, weigh commercial clarity against flexibility, and treat names with obvious third-party associations, such as Rhianna.shop, with extra caution.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- One-word .shop domains with direct ecommerce relevance
+- Median ask is 1,022 across 4,434 listed domains
+- Literal words can be clearer; broad words can brand better
+- Avoid names with obvious trademark or celebrity overlap
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SHOP One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SHOP One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
