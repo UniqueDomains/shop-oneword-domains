@@ -1,5 +1,5 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at
-00098345-0f19-410c-9ff6-af0e045ebc15,quote.shop,premium,1250,,82,31,5,name.com,,
+00098345-0f19-410c-9ff6-af0e045ebc15,quote.shop,premium,1250,,82,30,5,name.com,,
 00167468-9a4b-4161-bc2f-5f8a6c2c061e,stupid.shop,premium,312.5,,70,27,6,name.com,,
 0022c458-8196-488a-91b5-aa69628ce3ae,changethechannel.shop,available,2.99,,62,1,18,name.com,,
 0060e6f8-172f-4277-bcda-e43352bd43d7,Elias.shop,premium,700,700,72,27,5,namecheap,,
@@ -268,8 +268,8 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 14f31033-3ed9-4671-8b1f-06f359cdce07,getofflightly.shop,available,2.99,,70,1,15,name.com,,
 150a0b54-6695-4fb0-9bae-7e1e35d9e50a,Lordloveyou.shop,available,48.98,,60,1,13,namecheap,,
 150e48f0-cdb7-4f7f-9288-2e16752d4fbe,gardencentre.shop,premium,625,,70,3,13,name.com,,
-15195b62-aa2a-4ebb-a649-7082dc0771f5,incidence.shop,available,2.99,,68,4,9,name.com,,
-1525503a-e96c-4c64-8e73-59debb8d9213,incline.shop,premium,312.5,,70,10,7,name.com,,
+15195b62-aa2a-4ebb-a649-7082dc0771f5,incidence.shop,available,2.99,,68,3,9,name.com,,
+1525503a-e96c-4c64-8e73-59debb8d9213,incline.shop,premium,312.5,,70,11,7,name.com,,
 15578f24-ef23-4906-85e5-94cfa2948cb8,oneman.shop,resell,,,60,12,7,Dynadot Inc.,28/12/2025 05:40,28/12/2026 23:59
 155904b2-934c-413d-a4a3-d809b0a224c8,criterion.shop,premium,312.5,,88,10,9,name.com,,
 155d8de1-9943-437d-b77d-c0e089bf716f,alcoholusedisorder.shop,available,2.99,,48,1,20,name.com,,
@@ -358,6 +358,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 1b21a981-052d-40e4-b25d-0a12a3354675,actionadventure.shop,available,2.99,,68,1,16,name.com,,
 1b25409c-6666-4619-ad45-92e6dadc04c5,letlie.shop,available,2.99,,72,1,7,name.com,,
 1b4f757e-8865-45f6-b37b-ef74901a3274,airmarshal.shop,available,2.99,,76,3,11,name.com,,
+1b6a0625-53dd-4935-be4c-6c448f378c33,resort.shop,premium,6250,,80,21,6,name.com,,
 1b8648f4-eec7-4591-b7de-876edc66bbde,relish.shop,premium,625,,86,12,6,name.com,,
 1bbf5471-294d-4585-a6af-ffaba1e6dc5c,prepare.shop,resell,,,82,15,7,"XIAMEN CHINASOURCE INTERNET SERVICE CO., LTD.",02/11/2025 02:22,02/11/2026 23:59
 1bc39bd8-11b8-4dc5-a156-ef04117cc60b,pound.shop,premium,1250,,64,12,5,name.com,,
@@ -441,7 +442,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 21a4937b-dbce-40f2-93e0-73a45290bcf8,redapple.shop,resell,,,80,11,9,"XIAMEN CHINASOURCE INTERNET SERVICE CO., LTD.",09/10/2025 01:45,09/10/2026 23:59
 21b62a0a-1744-44cc-a6af-20dc729f03d1,wearoff.shop,available,2.99,,72,1,8,name.com,,
 21cb2703-9e1c-4267-a1df-a34399799287,femalealpha.shop,available,2.99,,72,1,12,name.com,,
-21f3550e-afd2-4183-b5d6-4c0b1a0b842b,investment.shop,premium,12500,,82,28,10,name.com,,
+21f3550e-afd2-4183-b5d6-4c0b1a0b842b,investment.shop,premium,12500,,82,27,10,name.com,,
 22489ce0-0ac1-4489-b85d-84d5d83de9ee,goonrecord.shop,available,2.99,,70,1,12,name.com,,
 224d6fc0-5624-4176-b128-aa12e9085954,anybudy.shop,available,2.99,,62,1,7,name.com,,
 224d7ff7-1cc7-435a-831c-6d3e203381c4,getonwith.shop,available,2.99,,79,1,11,name.com,,
@@ -784,7 +785,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 3ec88e4c-05e6-43ab-9694-e3bd9535ff67,velcro.shop,resell,,,80,61,6,Dynadot Inc.,19/03/2026 01:26,19/03/2027 23:59
 3ee38820-d456-4ac6-b9e0-511325d3a40e,unimportant.shop,available,2.99,,58,3,11,name.com,,
 3ef214bd-c28f-46b4-9b03-969a749d9028,automobile.shop,premium,1107,1107,78,19,10,namesilo,,
-3f1baf9a-8e58-433f-a046-c5d2d8870eb7,investor.shop,premium,625,,82,39,8,name.com,,
+3f1baf9a-8e58-433f-a046-c5d2d8870eb7,investor.shop,premium,625,,82,40,8,name.com,,
 3f238b84-8647-4dee-bbf0-e5c69a5e42e5,pinging.shop,available,2.99,,70,3,7,name.com,,
 3f520047-0017-49c3-8c00-d6b78ebe9cfa,acappella.shop,premium,750,,70,6,10,name.com,,
 3f576759-5f41-4465-8f18-a377cc54aa55,allovertheboard.shop,available,2.99,,42,1,18,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 4e5b8fca-8834-4cac-93bc-e59ce6a9526d,ohmyfuck.shop,available,2.99,,68,1,10,name.com,,
 4e5dced5-68d2-400f-bbe0-a527e85e8fae,traders.shop,premium,625,,60,26,7,name.com,,
 4e85325b-ba6c-4361-8788-6cd3d9a6d1b0,awfulness.shop,available,2.99,,64,1,9,name.com,,
-4e976d89-14aa-470e-9464-5a03462120cc,structures.shop,premium,625,,47,11,10,name.com,,
