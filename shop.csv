@@ -442,6 +442,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 200e676a-a50a-4ff5-8b7d-f43e82564acb,kilo.shop,resell,,,78,23,4,"Spaceship, Inc.",12/12/2020 00:12,12/12/2026 23:59
 2017fe22-45b9-4cb2-ab56-cc502e9d8b22,GeneralTsochicken.shop,available,48.98,,70,1,19,namecheap,,
 201d8de9-facf-4128-bae0-25034f000ae1,teens.shop,premium,1107,1107,76,18,5,namesilo,,
+202c4678-0c69-4489-8593-4fcdbf479d6e,inplaceof.shop,available,2.99,,58,1,11,name.com,,
 20555387-ffb3-4010-8bcc-b4c6b1541bc8,twentyeight.shop,resell,,,65,8,12,"Spaceship, Inc.",06/10/2025 20:49,06/10/2026 23:59
 2068dbce-e5a5-4c53-b608-1dbefc2be9d5,pussy.shop,premium,1250,,50,37,5,name.com,,
 207d5b25-f8d4-41e4-8209-69e4ebfaf25f,basket.shop,premium,1250,,76,20,6,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 48e27089-9e5e-4d49-a3c2-6500f7739a58,cells.shop,premium,6250,,61,13,5,name.com,,
 48ef4ac3-bee1-4f7d-9bd1-4176c36815b8,rubber.shop,premium,312.5,,80,17,6,name.com,,
 49036317-92d7-441d-8ae8-0c43c94b530e,motivation.shop,premium,625,,78,19,10,name.com,,
-490742d6-9cee-410c-ad59-baab86f99198,thermal.shop,premium,625,,56,23,7,name.com,,
