@@ -4,7 +4,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 0022c458-8196-488a-91b5-aa69628ce3ae,changethechannel.shop,available,2.99,,62,1,18,name.com,,
 0060e6f8-172f-4277-bcda-e43352bd43d7,Elias.shop,premium,700,700,72,27,5,namecheap,,
 00614f7f-2fd4-4050-a9a0-f13e89cea815,likeitorleaveit.shop,available,2.99,,44,2,19,name.com,,
-006a8883-df9e-47eb-ba92-05ba43064dc6,animals.shop,premium,1250,,64,21,7,name.com,,
+006a8883-df9e-47eb-ba92-05ba43064dc6,animals.shop,premium,1250,,64,20,7,name.com,,
 006c350b-3715-4d83-b8b4-030a552309ea,onthemove.shop,resell,,,72,10,11,Dynadot Inc.,05/02/2026 01:13,05/02/2027 23:59
 006f2c6b-e3c5-4aba-95bd-8259c3295cfd,particular.shop,premium,312.5,,82,10,10,name.com,,
 0087f8b5-e7ee-48a4-82b5-e66cada386ed,pennies.shop,premium,3125,,56,6,7,name.com,,
@@ -64,7 +64,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 03ae06c9-91f4-40ca-9afd-2318351ac616,signout.shop,available,2.99,,75,4,8,name.com,,
 03aead77-02c0-4414-9cf7-cadefa8562ad,sqin.shop,available,2.99,,72,3,5,name.com,,
 03bd0b78-f3f2-46e5-b2f7-0aefdbe7b54b,fireengine.shop,available,2.99,,84,3,11,name.com,,
-03d890db-fa92-407c-833e-e038f2b65dda,Nicole.shop,premium,3500,3500,70,23,6,namecheap,,
+03d890db-fa92-407c-833e-e038f2b65dda,Nicole.shop,premium,3500,3500,70,24,6,namecheap,,
 03ecd784-9acb-4d3d-81ee-6ae7e2570750,expire.shop,resell,,,58,11,6,Dynadot Inc.,24/02/2026 01:25,24/02/2027 23:59
 03f39a19-b63c-4d07-9b6d-05096ad5dde1,AsianTiger.shop,available,48.98,,56,12,11,namecheap,,
 03f5b68c-c50e-4525-9247-72ea9fafd902,SanDiego.shop,premium,625,,74,29,9,name.com,,
@@ -165,7 +165,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 0a3a4fe5-86da-482c-8523-83875d5b023e,midday.shop,premium,625,,76,10,6,name.com,,
 0a3fbf5a-d563-4e6f-9904-0fdb8421ff65,desire.shop,premium,625,,82,21,6,name.com,,
 0a5641a3-8142-44f9-92cb-d4dd8b521abb,oddnumbered.shop,available,2.99,,65,1,12,name.com,,
-0a59fc98-691f-4891-ac7c-87fa971c5e6c,onthetable.shop,available,2.99,,68,4,12,name.com,,
+0a59fc98-691f-4891-ac7c-87fa971c5e6c,onthetable.shop,available,2.99,,68,5,12,name.com,,
 0a6b8d35-0154-48de-ae62-95336973cb22,callcenter.shop,premium,302.5,302.5,70,16,11,namesilo,,
 0a72ed01-81e0-4c43-9f88-ba489f68ec7c,clients.shop,premium,1107,1107,58,20,7,namesilo,,
 0a8dd9bf-644b-4c35-bcab-b785cd56278e,bold.shop,premium,1250,,72,38,4,name.com,,
@@ -412,7 +412,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 1d90ee7f-eda6-4b95-af58-7980e3c47d35,workingorder.shop,available,2.99,,64,1,13,name.com,,
 1d9c90aa-eb7b-422d-b63d-272a310f546f,envisioned.shop,available,2.99,,74,5,10,name.com,,
 1de67f0a-2143-4b30-a31e-5b67352189f0,comethrough.shop,available,2.99,,78,1,12,name.com,,
-1dece540-600a-439d-904d-fb0907a4eac3,Oxfam.shop,resell,,,72,5,5,"Spaceship, Inc.",06/10/2025 18:17,06/10/2026 23:59
+1dece540-600a-439d-904d-fb0907a4eac3,Oxfam.shop,resell,,,72,6,5,"Spaceship, Inc.",06/10/2025 18:17,06/10/2026 23:59
 1df834dd-0e07-4063-be5b-d302f893b1b4,superhero.shop,premium,625,,84,23,9,name.com,,
 1e10b4d3-ed58-42d8-ac16-32b32d62495c,impress.shop,resell,,,86,18,7,"XIAMEN CHINASOURCE INTERNET SERVICE CO., LTD.",11/07/2025 00:58,11/07/2026 23:59
 1e26d350-d4d8-4dac-9510-4dcca42bde2f,dip.shop,premium,2500,,70,24,3,name.com,,
@@ -606,7 +606,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 2ceebb2d-83fa-4813-8f92-d05d73d76c47,comeout.shop,available,2.99,,78,2,8,name.com,,
 2cff6979-cbba-4a70-9d7d-ce7a10e38955,thebird.shop,resell,,,58,6,8,"Spaceship, Inc.",01/09/2025 17:01,01/09/2026 23:59
 2d0fdb27-ca46-4c38-b873-bfe1013db2a6,leaveover.shop,available,2.99,,70,1,10,name.com,,
-2d243f4f-4284-423c-b59d-21a9286bfc16,been.shop,premium,2500,,60,10,4,name.com,,
+2d243f4f-4284-423c-b59d-21a9286bfc16,been.shop,premium,2500,,60,11,4,name.com,,
 2d40163a-492c-48ab-b734-dba111d2afdd,keeptrack.shop,available,2.99,,76,8,10,name.com,,
 2d415574-97b0-4c44-9fb2-6186657e1a21,letitsnow.shop,available,2.99,,69,4,11,name.com,,
 2d549c56-d4c3-491b-ab41-f0b7b5a76375,stat.shop,premium,625,,70,28,4,name.com,,
@@ -678,7 +678,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 32169d27-6d3b-43f5-9518-b9fc9c8ae870,antenatal.shop,available,2.99,,74,3,9,name.com,,
 3226215f-e45e-40c3-8e37-34ab481938dc,cherryonthecake.shop,available,2.99,,60,13,18,name.com,,
 32553a38-9c92-45c5-839e-ee611f536871,WestIndies.shop,available,48.98,,68,9,11,namecheap,,
-32623a0a-5fd5-4c79-8d65-52f098b67a7c,NYC.shop,premium,7000,7000,82,38,3,namecheap,,
+32623a0a-5fd5-4c79-8d65-52f098b67a7c,NYC.shop,premium,7000,7000,82,42,3,namecheap,,
 329a56c4-a98e-4135-8b36-3b9ee6c53e4c,affluent.shop,premium,625,,78,9,8,name.com,,
 32d99c60-7b59-432d-b377-cae1584e0b24,coffeegrounds.shop,available,2.99,,72,2,14,name.com,,
 32e4bbb1-f64b-4371-9a40-a9a376591f6c,getonto.shop,available,2.99,,74,3,9,name.com,,
@@ -717,7 +717,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 34ed8659-8020-4c43-8d3a-dcdfd2bc37d3,lights.shop,premium,1250,,76,21,6,name.com,,
 34f2b811-8173-4ecc-9116-59057c9b512d,everybody.shop,premium,750,,64,15,10,name.com,,
 351030ce-a749-4270-b257-09de9003bee9,toboggans.shop,premium,125,,59,1,9,name.com,,
-35151df0-22f7-489d-8876-011dd29f6e01,Laura.shop,premium,700,700,84,28,5,namecheap,,
+35151df0-22f7-489d-8876-011dd29f6e01,Laura.shop,premium,700,700,84,29,5,namecheap,,
 351d6aa6-3917-4fe6-b2f0-85fe36b1a11e,alaska.shop,premium,625,,76,31,6,name.com,,
 351dfd76-aaf9-46eb-9784-e8db83c9b38b,Cheddarcheese.shop,available,48.98,,66,2,14,namecheap,,
 35231f02-b909-4691-a034-daf793e66512,comedian.shop,premium,625,,84,7,8,name.com,,
@@ -912,6 +912,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 43f6ff50-99b1-42eb-871a-ee0224950274,cincinnati.shop,premium,750,,80,14,10,name.com,,
 43fef693-76ec-4af2-ba67-f4cc6ead2273,leaveoffice.shop,available,2.99,,58,0,12,name.com,,
 43ffe2d4-de91-413e-8720-a47357c7e222,IDcard.shop,resell,,,72,8,7,Dynadot Inc.,31/12/2025 01:51,31/12/2026 23:59
+440faca4-2a0f-45fa-b886-80e618825fe6,midOctober.shop,available,2.99,,80,1,11,name.com,,
 44178d35-6a57-4e62-b6ba-26bc6014d994,cops.shop,premium,3125,,74,13,4,name.com,,
 442ea8e2-9fcf-4ac9-bd99-b066968aa9fc,medal.shop,premium,3125,,70,13,5,name.com,,
 44463027-858b-43d4-b197-4cf2ed913a9f,ear.shop,premium,3125,,78,22,3,name.com,,
@@ -936,6 +937,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 454c68ec-3b74-46b7-a886-a872ca91d280,meaning.shop,premium,625,,82,18,7,name.com,,
 4563790c-68c9-4962-a4a3-dec11e731418,forecloser.shop,available,2.99,,58,1,10,name.com,,
 45723725-c86e-4bdd-88b4-85b1e8da38fa,thoughts.shop,premium,312.5,,65,18,8,name.com,,
+45764a38-a1ef-460c-8f5c-a0d3c879147e,asthedayislong.shop,available,2.99,,40,1,18,name.com,,
 457f5781-7992-4fff-a0cf-f4924c96e3b6,influential.shop,premium,625,,78,10,11,name.com,,
 4587c938-9d8a-481e-876e-074cbe190cc7,getontheendof.shop,available,2.99,,64,0,17,name.com,,
 459048ed-a137-4dcd-9d0e-98707bb8c661,vegan.shop,premium,625,,82,42,5,name.com,,
@@ -997,5 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 48de0df8-7594-4b7c-892f-70da8d8e9b05,dutch.shop,premium,3125,,74,24,5,name.com,,
 48e0b902-fb2e-4079-b4c4-f04e8f40edf2,widowed.shop,available,2.99,,60,3,7,name.com,,
 48e27089-9e5e-4d49-a3c2-6500f7739a58,cells.shop,premium,6250,,61,13,5,name.com,,
-48ef4ac3-bee1-4f7d-9bd1-4176c36815b8,rubber.shop,premium,312.5,,80,17,6,name.com,,
-49036317-92d7-441d-8ae8-0c43c94b530e,motivation.shop,premium,625,,78,19,10,name.com,,
