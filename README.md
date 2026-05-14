@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar    |
-| --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------ |
-| barup.shop            | available | $2.99     | —             | 82             | 2      | 6      | name.com     |
-| Maidens.shop          | available | $48.98    | —             | 80             | 4      | 7      | namecheap    |
-| Rhianna.shop          | available | $48.98    | —             | 81             | 3      | 7      | namecheap    |
-| comeby.shop           | available | $2.99     | —             | 82             | 3      | 7      | name.com     |
-| gelpen.shop           | available | $2.99     | —             | 82             | 1      | 7      | name.com     |
-| kangeroo.shop         | available | $2.99     | —             | 80             | 1      | 8      | name.com     |
-| memorise.shop         | available | $2.99     | —             | 84             | 6      | 8      | name.com     |
-| dogstail.shop         | available | $2.99     | —             | 94             | 1      | 8      | name.com     |
-| makenews.shop         | available | $2.99     | —             | 80             | 1      | 9      | name.com     |
-| showering.shop        | available | $2.99     | —             | 80             | 2      | 9      | name.com     |
-| votingage.shop        | available | $2.99     | —             | 52             | 18     | 10     | name.com     |
-| velcro.shop           | resell    | —         | —             | 80             | 61     | 6      | Dynadot Inc. |
-| chase.shop            | premium   | $6,250    | —             | 66             | 85     | 5      | name.com     |
-| cherryonthecake.shop  | available | $2.99     | —             | 60             | 13     | 18     | name.com     |
-| check.shop            | resell    | —         | —             | 76             | 37     | 5      | GMO Registry |
-| mac.shop              | premium   | $6,250    | —             | 84             | 83     | 3      | name.com     |
-| giveortake.shop       | available | $2.99     | —             | 52             | 13     | 12     | name.com     |
-| sound.shop            | resell    | —         | —             | 70             | 36     | 5      | GMO Registry |
-| normal.shop           | premium   | $1,250    | —             | 76             | 82     | 6      | name.com     |
-| givesomeonealift.shop | available | $2.99     | —             | 68             | 12     | 19     | name.com     |
+| domain                 | status    | ask_price | renewal_price | attractiveness | demand | length | registrar    |
+| ---------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------ |
+| barup.shop             | available | $2.99     | —             | 82             | 2      | 6      | name.com     |
+| Maidens.shop           | available | $48.98    | —             | 80             | 4      | 7      | namecheap    |
+| Rhianna.shop           | available | $48.98    | —             | 81             | 3      | 7      | namecheap    |
+| comeby.shop            | available | $2.99     | —             | 82             | 3      | 7      | name.com     |
+| gelpen.shop            | available | $2.99     | —             | 82             | 1      | 7      | name.com     |
+| kangeroo.shop          | available | $2.99     | —             | 80             | 1      | 8      | name.com     |
+| memorise.shop          | available | $2.99     | —             | 84             | 6      | 8      | name.com     |
+| dogstail.shop          | available | $2.99     | —             | 94             | 1      | 8      | name.com     |
+| makenews.shop          | available | $2.99     | —             | 80             | 1      | 9      | name.com     |
+| showering.shop         | available | $2.99     | —             | 80             | 2      | 9      | name.com     |
+| votingage.shop         | available | $2.99     | —             | 52             | 18     | 10     | name.com     |
+| velcro.shop            | resell    | —         | —             | 80             | 61     | 6      | Dynadot Inc. |
+| chase.shop             | premium   | $6,250    | —             | 66             | 85     | 5      | name.com     |
+| giveortake.shop        | available | $2.99     | —             | 52             | 13     | 12     | name.com     |
+| check.shop             | resell    | —         | —             | 76             | 37     | 5      | GMO Registry |
+| mac.shop               | premium   | $6,250    | —             | 84             | 83     | 3      | name.com     |
+| givesomeonealift.shop  | available | $2.99     | —             | 68             | 12     | 19     | name.com     |
+| sound.shop             | resell    | —         | —             | 70             | 36     | 5      | GMO Registry |
+| normal.shop            | premium   | $1,250    | —             | 76             | 82     | 6      | name.com     |
+| givesomeoneabreak.shop | available | $2.99     | —             | 68             | 12     | 20     | name.com     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
