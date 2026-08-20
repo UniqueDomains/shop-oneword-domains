@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .shop one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 5,617 domains · **Median ask:** $887.39 · **High-demand under $2,500:** 15
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/shop`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                        |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------ |
-| clean.shop     | premium   | $1,300    | $1,300        | high           | high   | 5      | namecheap                                        |
-| heavy.shop     | premium   | $650      | $650          | high           | low    | 5      | namecheap                                        |
-| smooth.shop    | available | —         | —             | high           | low    | 6      | —                                                |
-| colour.shop    | premium   | $625      | $625          | high           | low    | 6      | name.com                                         |
-| language.shop  | available | —         | —             | high           | low    | 8      | —                                                |
-| whatever.shop  | available | —         | —             | high           | high   | 8      | —                                                |
-| tenth.shop     | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc.                                  |
-| liii.shop      | available | $2.99     | $59.99        | medium         | low    | 4      | name.com                                         |
-| generally.shop | resell    | $2.99     | —             | medium         | low    | 9      | Turingsign Inc.                                  |
-| ace.shop       | premium   | $6,250    | $6,250        | high           | medium | 3      | name.com                                         |
-| aided.shop     | available | $2.99     | —             | high           | low    | 5      | name.com                                         |
-| curl.shop      | resell    | —         | —             | medium         | low    | 4      | Registrar of domain names REG.RU                 |
-| act.shop       | premium   | $2,500    | —             | high           | low    | 3      | name.com                                         |
-| octad.shop     | available | $0.98     | $48.98        | low            | low    | 5      | namecheap                                        |
-| grey.shop      | resell    | —         | —             | high           | low    | 4      | ALIBABA.COM SINGAPORE E-COMMERCE PRIVATE LIMITED |
-| add.shop       | premium   | $6,250    | —             | high           | low    | 3      | name.com                                         |
-| xxxiv.shop     | available | $0.98     | $48.98        | low            | low    | 5      | namecheap                                        |
-| home.shop      | resell    | —         | —             | high           | medium | 4      | GoDaddy.com LLC                                  |
-| age.shop       | premium   | $3,125    | —             | high           | low    | 3      | name.com                                         |
-| abasic.shop    | available | $0.98     | $48.98        | low            | low    | 6      | namecheap                                        |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| clean.shop     | premium   | $1,300    | $1,300        | high           | high   | 5      | namecheap       |
+| heavy.shop     | premium   | $650      | $650          | high           | low    | 5      | namecheap       |
+| smooth.shop    | available | —         | —             | high           | low    | 6      | —               |
+| colour.shop    | premium   | $625      | $625          | high           | low    | 6      | name.com        |
+| language.shop  | available | —         | —             | high           | low    | 8      | —               |
+| whatever.shop  | available | —         | —             | high           | high   | 8      | —               |
+| tenth.shop     | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc. |
+| pity.shop      | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc. |
+| truth.shop     | premium   | $2,500    | $59.99        | high           | medium | 5      | name.com        |
+| profound.shop  | available | —         | —             | high           | low    | 8      | —               |
+| plane.shop     | premium   | $1,300    | $1,300        | high           | low    | 5      | namecheap       |
+| science.shop   | premium   | $3,125    | $3,125        | high           | medium | 7      | name.com        |
+| trick.shop     | premium   | $650      | $650          | high           | low    | 5      | namecheap       |
+| sign.shop      | resell    | —         | —             | high           | low    | 4      | GoDaddy.com LLC |
+| prank.shop     | premium   | $650      | $650          | high           | low    | 5      | namecheap       |
+| britain.shop   | available | —         | —             | high           | low    | 7      | —               |
+| under.shop     | premium   | $650      | $650          | high           | low    | 5      | namecheap       |
+| liii.shop      | available | $2.99     | $59.99        | medium         | low    | 4      | name.com        |
+| generally.shop | resell    | $2.99     | —             | medium         | low    | 9      | Turingsign Inc. |
+| ace.shop       | premium   | $6,250    | $6,250        | high           | medium | 3      | name.com        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SHOP One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SHOP One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
