@@ -1,10 +1,10 @@
-# Available .SHOP One-Word Domains (9,139)
+# Available .SHOP One-Word Domains (9,546)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C139%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C546%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .shop one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **9,139 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **9,546 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 9,139 domains · **Median ask:** $1,121.08 · **High-demand under $2,500:** 26
+**Public extract:** 1,000 rows · **Live catalog:** 9,546 domains · **Median ask:** $1,118.18 · **High-demand under $2,500:** 27
 
-**Last updated:** 2026-09-27
+**Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/tld/shop`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status  | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| -------------- | ------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| inventory.shop | premium | $640      | $640          | high           | low    | 9      | namesilo  |
-| weather.shop   | premium | $13,800   | $13,800       | high           | medium | 7      | namesilo  |
-| freight.shop   | premium | $640      | $640          | high           | low    | 7      | namesilo  |
-| cherry.shop    | premium | $6,900    | $6,900        | high           | low    | 6      | namesilo  |
-| cinema.shop    | premium | $1,107    | $1,107        | high           | low    | 6      | namesilo  |
-| wealthy.shop   | premium | $1,300    | $1,300        | high           | low    | 7      | namecheap |
-| new.shop       | premium | $13,800   | $13,800       | high           | medium | 3      | namesilo  |
-| nuts.shop      | premium | $650      | $650          | high           | low    | 4      | namecheap |
-| green.shop     | premium | $13,800   | $13,800       | high           | medium | 5      | namesilo  |
-| leading.shop   | premium | $1,107    | $1,107        | high           | low    | 7      | namesilo  |
-| minute.shop    | premium | $1,107    | $1,107        | high           | low    | 6      | namesilo  |
-| total.shop     | premium | $6,900    | $6,900        | high           | medium | 5      | namesilo  |
-| macro.shop     | premium | $2,600    | $39           | high           | low    | 5      | namecheap |
-| present.shop   | premium | $1,107    | $1,107        | high           | low    | 7      | namesilo  |
-| better.shop    | premium | $3,250    | $3,250        | high           | medium | 6      | namecheap |
-| geek.shop      | premium | $1,107    | $1,107        | high           | low    | 4      | namesilo  |
-| jewish.shop    | premium | $1,250    | $1,250        | high           | low    | 6      | name.com  |
-| therapy.shop   | premium | $6,900    | $6,900        | high           | low    | 7      | namesilo  |
-| creative.shop  | premium | $6,500    | $6,500        | high           | medium | 8      | namecheap |
-| found.shop     | premium | $1,107    | $1,107        | high           | medium | 5      | namesilo  |
+| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                 |
+| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------- |
+| abls.shop  | available | $2.99     | $38.99        | medium         | low    | 4      | namesilo                  |
+| beth.shop  | resell    | —         | —             | medium         | low    | 4      | —                         |
+| aix.shop   | premium   | $1,107    | $1,107        | high           | medium | 3      | namesilo                  |
+| lxii.shop  | available | $0.98     | $48.98        | medium         | low    | 4      | namecheap                 |
+| calm.shop  | resell    | —         | —             | high           | low    | 4      | —                         |
+| alb.shop   | premium   | $2,660    | $35.40        | high           | low    | 3      | namesilo                  |
+| lxxv.shop  | available | $0.98     | $48.98        | medium         | low    | 4      | namecheap                 |
+| curb.shop  | resell    | —         | —             | high           | low    | 4      | —                         |
+| amd.shop   | premium   | $2,600    | $39           | high           | low    | 3      | namecheap                 |
+| ailey.shop | available | $0.98     | $48.98        | medium         | low    | 5      | namecheap                 |
+| home.shop  | resell    | —         | —             | high           | medium | 4      | eName Technology Co.,Ltd. |
+| ann.shop   | premium   | $2,800    | $42           | high           | low    | 3      | namecheap                 |
+| algid.shop | available | $0.98     | $48.98        | medium         | low    | 5      | namecheap                 |
+| slug.shop  | resell    | —         | —             | high           | low    | 4      | —                         |
+| blt.shop   | premium   | $2,660    | $35.40        | high           | low    | 3      | namesilo                  |
+| anzac.shop | available | $2.99     | $38.99        | medium         | low    | 5      | namesilo                  |
+| soap.shop  | resell    | —         | —             | high           | low    | 4      | Porkbun LLC               |
+| bpi.shop   | premium   | $2,660    | $35.40        | high           | low    | 3      | namesilo                  |
+| arere.shop | available | $2.99     | $38.99        | medium         | low    | 5      | namesilo                  |
+| taco.shop  | resell    | —         | —             | high           | low    | 4      | GoDaddy.com LLC           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 9,139 live domains                         |
+| 1,000-row public sample | 9,546 live domains                         |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 26 high-demand names under $2,500          |
+| Basic exported fields   | 27 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SHOP One-Word Domains*. Version 2026-09-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SHOP One-Word Domains*. Version 2026-09-28. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
